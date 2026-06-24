@@ -1,6 +1,6 @@
-# technical-writing-portfolio
+# Technical-Writing-Portfolio
 
-Welcome to my technical writing portfolio.
+Welcome to my Technical Writing Portfolio.
 
 This repository contains documentation samples created to demonstrate technical writing skills, including:
 
