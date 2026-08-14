@@ -1,4 +1,4 @@
-<img width="453" height="387" alt="Screenshot 2026-08-14 at 1 01 07 PM" src="https://github.com/user-attachments/assets/8d094fee-48d3-41b2-a926-61b1a1ce4256" />
+
 # How to Create Your First GitHub Repository
 
 ## Overview
