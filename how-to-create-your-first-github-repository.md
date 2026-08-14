@@ -78,7 +78,7 @@ Avoid names that are difficult to understand or contain unnecessary characters.
 
 ### Screenshot
 
-<img width="453" height="387" alt="Screenshot 2026-08-14 at 1 01 07 PM" src="https://github.com/user-attachments/assets/948678e2-1705-4be2-b2e4-996f5a407677" />
+<img width="1050" height="681" alt="Screenshot 2026-08-14 at 1 20 40 PM" src="https://github.com/user-attachments/assets/7cfe74ff-8ab9-4fec-8552-316cba8cddd1" />
 
 
 **Figure 2.** The GitHub repository creation page.
