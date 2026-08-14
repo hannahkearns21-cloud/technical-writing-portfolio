@@ -78,7 +78,8 @@ Avoid names that are difficult to understand or contain unnecessary characters.
 
 ### Screenshot
 
-*Add a screenshot of the "Create a new repository" page here.*
+<img width="453" height="387" alt="Screenshot 2026-08-14 at 1 01 07 PM" src="https://github.com/user-attachments/assets/948678e2-1705-4be2-b2e4-996f5a407677" />
+
 
 **Figure 2.** The GitHub repository creation page.
 
