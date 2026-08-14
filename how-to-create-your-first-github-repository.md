@@ -1,3 +1,4 @@
+<img width="453" height="387" alt="Screenshot 2026-08-14 at 1 01 07 PM" src="https://github.com/user-attachments/assets/8d094fee-48d3-41b2-a926-61b1a1ce4256" />
 # How to Create Your First GitHub Repository
 
 ## Overview
@@ -43,6 +44,7 @@ Repositories can be used for many different types of projects, including:
 > **Tip:** If you do not already have a GitHub account, select **Sign up** and follow GitHub's instructions to create one.
 
 ### Screenshot
+<img width="453" height="387" alt="Screenshot 2026-08-14 at 1 01 07 PM" src="https://github.com/user-attachments/assets/18c4e121-5568-42ca-92b9-546d99c086b9" />
 
 
 
