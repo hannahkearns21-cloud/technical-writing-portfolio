@@ -1,6 +1,8 @@
 # Technical-Writing-Portfolio
 
-Welcome to my Technical Writing Portfolio.
+Hi! I'm Hannah Kearns, a Penn State Linguistics graduate interested in technical writing, content writing, editing, and communications.
+
+This portfolio contains examples of technical documentation, editing, audience-focused writing, and copywriting.
 
 This repository contains documentation samples created to demonstrate technical writing skills, including:
 
